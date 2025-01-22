@@ -65,7 +65,7 @@ python app.py
 3. Manage uploaded content through the admin panel
 4. Delete inappropriate content as needed
 
-## Rate Limiting 🚦
+## Rate Limiting
 
 - Regular uploads: 2 per hour
 - API access: 200 requests per day, 100 per hour
