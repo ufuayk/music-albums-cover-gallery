@@ -1,8 +1,10 @@
-# Music Albums Cover Gallery 🎵
+# Music Albums Cover Gallery
 
 Music Albums Cover Gallery is a web application that allows users to share and discover album covers in their original 1920x1920 pixel format. It provides a simple, clean interface for uploading and viewing album artwork while maintaining high-quality standards.
 
-## Features ✨
+![Screenshot](https://raw.githubusercontent.com/ufuayk/music-albums-cover-gallery/main/screenshot.png)
+
+## Features
 
 - **High-Quality Album Covers**: Strict 1920x1920 pixel requirement ensures consistent quality.
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
@@ -10,7 +12,7 @@ Music Albums Cover Gallery is a web application that allows users to share and d
 - **Admin Panel**: Secure administration interface for content moderation.
 - **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 
-## Technical Stack 🛠
+## Technical Stack
 
 - **Backend**: Flask (Python)
 - **Database**: SQLite3
@@ -19,7 +21,7 @@ Music Albums Cover Gallery is a web application that allows users to share and d
 - **Environment Variables**: python-dotenv
 - **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
 
-## Installation 🚀
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -48,7 +50,7 @@ ADMIN_PASSWORD=your_secure_password_here
 python app.py
 ```
 
-## Usage 💡
+## Usage
 
 ### For Users
 1. Visit the homepage
@@ -71,7 +73,7 @@ python app.py
 
 Rate limiting can be disabled by creating a `.env-limit` file with content `false`.
 
-## Security Features 🔒
+## Security Features
 
 - Admin authentication required for sensitive operations
 - Rate limiting to prevent abuse
@@ -79,7 +81,7 @@ Rate limiting can be disabled by creating a `.env-limit` file with content `fals
 - Secure session management
 - Input validation and sanitization
 
-## Directory Structure 📁
+## Directory Structure
 
 ```
 music-albums-cover-gallery/
@@ -97,7 +99,7 @@ music-albums-cover-gallery/
     └── admin_panel.html
 ```
 
-## Deployment 🌐
+## Deployment
 
 The application is designed to be deployed on Python Anywhere:
 
@@ -110,10 +112,10 @@ The application is designed to be deployed on Python Anywhere:
 
 For detailed deployment instructions, please refer to the deployment guide.
 
-## Contributing 🤝
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License 📄
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
