@@ -2,7 +2,7 @@
 
 Music Albums Cover Gallery is a web application that allows users to share and discover album covers in their original 1920x1920 pixel format. It provides a simple, clean interface for uploading and viewing album artwork while maintaining high-quality standards.
 
-![Screenshot](https://raw.githubusercontent.com/ufuayk/music-albums-cover-gallery/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/ufuayk/music-albums-cover-gallery/refs/heads/main/screenshot.PNG)
 
 ## Features
 
